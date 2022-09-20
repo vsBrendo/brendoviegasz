@@ -1,6 +1,5 @@
 ### Bem vindo ao meu perfil!!! :raising_hand_man:
 
- ### Sobre  :man_technologist:
 <p> - Atualmente estudando SpringBoot :books: <br>
     - Apaixonado por jogos RTS, livros de fantasia e astronomia :crossed_swords: <br>
     - Também gosto de adquirir conhecimentos em outras áreas :open_book: <br>
