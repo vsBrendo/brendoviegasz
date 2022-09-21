@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil!!! :raising_hand_man:
 
-<p> - Atualmente estudo SQL :books: <br>
+<p> - Atualmente estudo SQL & Aprimorando minhas técnicas em Java :books: <br>
     - Apaixonado por jogos RTS, livros de fantasia e astronomia :crossed_swords: <br>
     - Também gosto de adquirir conhecimentos em outras áreas :open_book: <br>
     - Meu objetivo é melhorar minhas habilidades e se tornar um desenvolvedor Full-Stack :computer: <br> </p>
